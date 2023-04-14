@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-05-01 15:59:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will teach the graduate-level course [Multicriteria optimization and design of experiment](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=589&campuscd=UBCO&dept=ENGR&pname=subjarea) at UBC this summer. 👨🏻‍🏫

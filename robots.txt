@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://miladramzy.github.io/miladramzy//sitemap.xml

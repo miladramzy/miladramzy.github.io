@@ -6,7 +6,7 @@ subtitle: Applied Data Scientist, Mechanical Engineer, University of British Col
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic3.png
   image_circular: false # crops the image to make it circular
   address:
 
